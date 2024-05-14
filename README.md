@@ -15,8 +15,8 @@ Make sure you have Python installed. You can download it from the [official Pyth
 1. Clone the repository or download the `app.py` and `run_app.py` files.
 
     ```sh
-    git clone https://github.com/your-username/simple-streamlit-app.git
-    cd simple-streamlit-app
+    git clone https://github.com/slhhnin/skin-color-classification.git
+    cd skin-color-classification
     ```
 
 2. Create a virtual environment (optional but recommended).
