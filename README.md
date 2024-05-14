@@ -1,4 +1,4 @@
-# Simple Streamlit App
+# Skin Color Classification With Streamlit App
 
 This repository contains a simple Streamlit app to demonstrate skin color classification.
 
